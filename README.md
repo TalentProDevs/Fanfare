@@ -63,3 +63,11 @@ Reliable maintenance and support to ensure platform stability and scalability.
 Let’s collaborate to transform your vision into a revolutionary solution that stands out in today’s competitive market.
 
 ![Fanfare](https://github.com/TalentProDevs/Fanfare/blob/main/01.%20Marketplace%20Portfolio%20(FF%20With%20Logo)%20(Dynamic%20Timeline).jpg)
+
+![Fanfare](https://github.com/TalentProDevs/Fanfare/blob/main/02.%20Marketplace%20Portfolio%20(FF%20With%20Logo)%20(Smart%20Chat%20System).jpg)
+
+![Fanfare](https://github.com/TalentProDevs/Fanfare/blob/main/03.%20Marketplace%20Portfolio%20(FF%20With%20Logo)%20(AI-Driven).jpg)
+
+![Fanfare](https://github.com/TalentProDevs/Fanfare/blob/main/04.%20Marketplace%20Portfolio%20(FF%20With%20Logo)%20(Integrated%20E-Commerce).jpg)
+
+![Fanfare](https://github.com/TalentProDevs/Fanfare/blob/main/05.%20Marketplace%20Portfolio%20(FF%20With%20Logo)%20(Addictive%20Mini-Games).jpg)

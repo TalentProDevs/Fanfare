@@ -62,4 +62,4 @@ Reliable maintenance and support to ensure platform stability and scalability.
 
 Let’s collaborate to transform your vision into a revolutionary solution that stands out in today’s competitive market.
 
-![Dynamic Timeline](https://raw.githubusercontent.com/TalentProDevs/Fanfare/main/assets/fanfare-timeline.jpg)
+![Fanfare Screenshot](https://raw.githubusercontent.com/TalentProDevs/Fanfare/main/01.%20Marketplace%20Portfolio%20(FF%20With%20Logo)%20(Dynamic%20Timeline).jpg)

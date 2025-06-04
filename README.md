@@ -31,15 +31,21 @@ DevOps: Jenkin, Docker, AWS Pipeline
 
 ## Skills Demonstrated
 Project Management: Successfully managed timelines, resource allocation, and quality assurance.
+
 User-Centric Design: Delivered intuitive, user-friendly interfaces for higher engagement and satisfaction.
+
 Development Expertise: Designed and implemented scalable architectures for long-term growth.
+
 Collaboration & Communication: Ensured alignment between development teams and client goals through active feedback exchanges.
 
 ## Results & Impact
-### Enhanced Engagement: The interactive timeline and rewards system significantly boosted user activity.
-### Seamless Shopping Experience: Shoppable videos streamlined the customer journey, increasing conversion rates.
-### Brand Empowerment: Enabled brands to directly connect with their audience, improving promotional effectiveness.
-### Scalable Solution: Built a robust architecture to support continuous growth and feature expansion.
+Enhanced Engagement: The interactive timeline and rewards system significantly boosted user activity.
+
+Seamless Shopping Experience: Shoppable videos streamlined the customer journey, increasing conversion rates.
+
+Brand Empowerment: Enabled brands to directly connect with their audience, improving promotional effectiveness.
+
+Scalable Solution: Built a robust architecture to support continuous growth and feature expansion.
 
 ## Empowering Clients with Social Commerce Solutions
 At Talent Pro, we specialize in crafting tailored solutions that integrate user-generated content with e-commerce innovation. Fanfare exemplifies our ability to revolutionize social commerce platforms, enabling clients to drive brand engagement, user satisfaction, and sales growth.

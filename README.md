@@ -61,3 +61,5 @@ Continuous updates and feature enhancements aligned with industry trends.
 Reliable maintenance and support to ensure platform stability and scalability.
 
 Let’s collaborate to transform your vision into a revolutionary solution that stands out in today’s competitive market.
+
+![Dynamic Timeline](https://raw.githubusercontent.com/TalentProDevs/Fanfare/main/assets/fanfare-timeline.jpg)

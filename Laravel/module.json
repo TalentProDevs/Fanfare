@@ -1,0 +1,13 @@
+{
+    "name": "ChatProgressCommon",
+    "alias": "chatprogresscommon",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "API\\ChatProgressCommon\\Providers\\ChatProgressCommonServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

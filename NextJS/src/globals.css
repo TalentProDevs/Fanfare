@@ -1,0 +1,189 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .center-div {
+    @apply flex justify-center items-center !important;
+  }
+}
+
+
+/* Hide scrollbar for WebKit browsers */
+.custom-select-dropdown::-webkit-scrollbar {
+  display: none;
+}
+
+/* Optional: Add custom styling to the component */
+.custom-select-dropdown {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Apply scrollbar styles only for dark mode */
+.dark ::-webkit-scrollbar {
+  width: 6px;
+  background: transparent; /* Transparent background for dark mode */
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  background: transparent; /* Transparent background for dark mode */
+}
+
+.dark ::-webkit-scrollbar-track {
+  /* background: rgb(48, 47, 47); */
+  background: transparent;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background-color: rgb(80, 79, 79);
+  border: 2px solid transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(158, 151, 151);
+  border: 2px solid transparent;
+}
+
+/* ------------------------ Text Field Error Styling ------------------------ */
+.error-textarea {
+  border: 1px solid red;
+  background-color: #faf3f3; /* Light red background */
+  animation: shake 0.3s ease;
+}
+.dark .error-textarea {
+  border: 1px solid red;
+  background-color: #f8e4e4; /* Dark red background */
+  animation: shake 0.3s ease;
+}
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25%,
+  75% {
+    transform: translateX(-5px);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+}
+
+@keyframes bounceInBackToFront {
+  0% {
+    transform: translateZ(-200px) scale(0.5); /* Start behind */
+    opacity: 0;
+  }
+  10% {
+    transform: translateZ(30px) scale(1.1); /* Move towards the viewer and grow slightly */
+    opacity: 1;
+  }
+  12% {
+    transform: translateZ(0) scale(0.8); /* End at normal position */
+  }
+  20% {
+    transform: translateZ(0) scale(1); /* End at normal position */
+  }
+  100% {
+    transform: translateZ(0) scale(1); /* End at normal position */
+  }
+}
+
+@media screen and (max-width: 500px) {
+  /* Target devices with screen width <= 768px */
+  * {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+
+    /* Optional - For Safari */
+    overflow: -moz-scrollbars-none;
+  }
+
+  *::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, WebKit-based browsers */
+  }
+}
+
+/* Prevent scrollbar from taking up space */
+.floating-scrollbar {
+  scrollbar-gutter: stable both-edges; /* Allows floating scrollbar reserving space for all time*/
+}
+
+html {
+  /* scrollbar-gutter: stable both-edges; */
+  scrollbar-gutter: stable; /*Reserved space for scroll bar*/
+}
+
+html.auth-route {
+  /* scrollbar-gutter: stable both-edges; */
+  scrollbar-gutter: auto; /*Reserved space for scroll bar*/
+}
+
+html.dark {
+  background-color: #202125;
+}
+
+html.modal-open {
+  background: rgba(
+    0,
+    0,
+    0,
+    0.5
+  ); /* Change background color when modal is open */
+}
+
+html.modal-open.dark {
+  background: rgba(0, 0, 0, 1); /* Change background color when modal is open */
+}
+
+html.comment-modal-open {
+  background: rgba(
+    0,
+    0,
+    0,
+    0.7
+  ); /* Change background color when modal is open */
+}
+
+html.comment-modal-open.dark {
+  background: rgba(0, 0, 0, 1); /* Change background color when modal is open */
+}
+
+.truncate-line2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Number of lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*LIKE LIST*/
+/* .like-list::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
+
+.like-list:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.5);
+} */
+
+/*LIKE LIST*/
+
+/* Hidden Scroll Bar */
+/* For WebKit Browsers (Chrome, Safari) */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* For Firefox */
+.hide-scrollbar {
+  scrollbar-width: none;
+}
+
+/* For IE/Edge */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+}
+
+/* Hidden Scroll Bar */

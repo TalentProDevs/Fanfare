@@ -1,0 +1,1 @@
+// here graphql api is used to fetch feed data
